@@ -467,6 +467,7 @@
       "minecraft:wither_skeleton": "2025-06-01 02:01:59 +0000",
       "minecraft:ghast": "2025-06-01 02:08:12 +0000",
       "minecraft:hoglin": "2025-06-01 01:10:05 +0000",
+      "minecraft:piglin": "2025-06-03 17:25:21 +0000",
       "minecraft:guardian": "2025-06-03 16:25:33 +0000",
       "minecraft:vindicator": "2025-05-31 00:05:49 +0000",
       "minecraft:spider": "2025-05-30 19:01:33 +0000",
@@ -3741,6 +3742,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-03 17:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-03 17:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-06-03 16:45:52 +0000"
@@ -3750,6 +3763,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-06-03 16:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-03 17:17:36 +0000"
     },
     "done": true
   },
@@ -3777,6 +3796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-03 17:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-06-03 16:41:21 +0000"
@@ -3798,6 +3823,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-03 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-03 17:14:55 +0000"
     },
     "done": true
   },
