@@ -576,6 +576,7 @@
       "minecraft:cave_spider": "2025-06-03 18:47:17 +0000",
       "minecraft:skeleton": "2025-05-30 18:50:56 +0000",
       "minecraft:piglin": "2025-05-31 00:19:04 +0000",
+      "minecraft:elder_guardian": "2025-06-03 19:10:39 +0000",
       "minecraft:guardian": "2025-06-03 19:06:02 +0000",
       "minecraft:phantom": "2025-05-30 20:17:54 +0000",
       "minecraft:enderman": "2025-06-01 04:56:33 +0000",
@@ -2701,6 +2702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-03 19:15:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-03 18:11:24 +0000"
@@ -2812,6 +2819,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-03 18:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-03 19:10:42 +0000"
     },
     "done": true
   },
