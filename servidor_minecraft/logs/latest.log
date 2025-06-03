@@ -256,3 +256,25 @@
 [15:14:40] [Server thread/INFO]: [Not Secure] <Trejos1111> con la v te activas el chat
 [15:14:49] [Server thread/INFO]: [Not Secure] <Dezar68> ya
 [15:22:13] [Server thread/INFO]: Named entity class_1642['Eduardo'/4423, l='ServerLevel[world]', x=614.93, y=63.50, z=-320.01] died: Eduardo burned to death
+[15:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[15:44:51] [Server thread/INFO]: IlarilarieOhOHIO[/127.14.163.191:39641] logged in with entity id 28046 at (779.6965376304199, 65.0, -267.18371785760274)
+[15:44:51] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[15:44:52] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[15:44:52] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[15:44:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[15:44:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[15:44:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[15:45:13] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> Trejos
+[15:45:15] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> Aqui estoy
+[15:45:20] [Server thread/INFO]: [Not Secure] <Trejos1111> voy
+[15:45:20] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> Que necesitas papi
+[15:47:32] [Server thread/INFO]: Villager class_1646['Farmer'/4443, l='ServerLevel[world]', x=609.61, y=75.56, z=-314.42] died, message: 'Farmer was slain by Zombie'
+[15:54:10] [Server thread/INFO]: Villager class_1646['Nitwit'/4444, l='ServerLevel[world]', x=609.58, y=76.00, z=-315.29] died, message: 'Nitwit was slain by Zombie'
+[15:54:23] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[15:54:59] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[15:56:13] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[15:56:56] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[15:59:04] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[15:59:25] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[15:59:27] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[15:59:43] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
