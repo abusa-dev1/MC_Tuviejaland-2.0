@@ -2355,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-03 21:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-06-03 21:52:37 +0000"
@@ -2367,9 +2373,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "shot_crossbow": "2025-06-03 21:13:41 +0000"
+      "has_porkchop": "2025-06-03 22:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-03 22:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-03 22:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-03 22:17:06 +0000"
     },
     "done": true
   },
