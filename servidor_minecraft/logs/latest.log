@@ -479,3 +479,20 @@
 [19:21:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
 [19:21:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
 [19:24:28] [Server thread/INFO]: [Not Secure] <xHARITOLx> grupo
+[19:47:29] [Server thread/INFO]: Dezar68 lost connection: Disconnected
+[19:47:29] [Server thread/INFO]: Dezar68 left the game
+[19:47:29] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[19:50:52] [Server thread/INFO]: Dezar68[/127.129.89.92:53635] logged in with entity id 286319 at (720.3928807695137, 71.875, -105.37459858870606)
+[19:50:52] [Server thread/INFO]: Dezar68 joined the game
+[19:50:53] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[19:50:53] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[19:50:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[19:50:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[19:50:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[19:52:21] [Server thread/INFO]: pipi_caliente69[/127.214.193.124:44749] logged in with entity id 288097 at (-337.5578490851064, 49.0, -990.4820855999941)
+[19:52:21] [Server thread/INFO]: pipi_caliente69 joined the game
+[19:52:22] [Server thread/INFO]: [voicechat] Received secret request of pipi_caliente69 (18)
+[19:52:22] [Server thread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[19:52:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[19:52:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[19:52:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
