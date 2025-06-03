@@ -496,3 +496,12 @@
 [19:52:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
 [19:52:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
 [19:52:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[19:56:23] [Server thread/WARN]: Oak Boat (vehicle of IlarilarieOhOHIO) moved wrongly! 0.4517846644475867
+[19:56:23] [Server thread/WARN]: Oak Boat (vehicle of IlarilarieOhOHIO) moved wrongly! 0.844347578837187
+[19:56:23] [Server thread/WARN]: Oak Boat (vehicle of IlarilarieOhOHIO) moved wrongly! 1.0873176624468215
+[19:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:58:31] [Server thread/INFO]: Dezar68 lost connection: Disconnected
+[19:58:31] [Server thread/INFO]: Dezar68 left the game
+[19:58:31] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[20:11:57] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Ol' Betsy]
+[20:11:57] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Take Aim]
