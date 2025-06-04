@@ -2408,21 +2408,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-06-04 00:19:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-04 00:19:03 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "nether_wart": "2025-06-04 00:20:56 +0000"
+      "has_blaze_rod": "2025-06-04 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-04 00:19:06 +0000"
     },
     "done": true
   },
@@ -2432,9 +2432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_blaze_rod": "2025-06-04 00:19:03 +0000"
+      "nether_wart": "2025-06-04 00:20:56 +0000"
     },
     "done": true
   },
