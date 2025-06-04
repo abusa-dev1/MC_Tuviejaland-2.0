@@ -236,3 +236,34 @@
 [17:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
 [17:52:43] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to 17.500000, 67.500000, -75.500000]
 [17:54:04] [Server thread/INFO]: JEspantaViejas has made the advancement [Local Brewery]
+[18:01:59] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to -1702.500000, 118.500000, -4688.500000]
+[18:03:04] [ForkJoinPool.commonPool-worker-6/WARN]: Failed to fetch skin: not found
+[18:03:06] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:45889] logged in with entity id 18122 at (690.8396713174991, 66.0, -337.85826894781354)
+[18:03:06] [Server thread/INFO]: DJ_cuajada09 joined the game
+[18:03:09] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[18:03:09] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[18:03:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[18:03:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[18:03:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[18:06:47] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[18:06:47] [Server thread/INFO]: JEspantaViejas left the game
+[18:06:47] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[18:07:09] [Server thread/INFO]: [Trejos1111: Set own game mode to Spectator Mode]
+[18:07:12] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[18:07:41] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:35833] logged in with entity id 22059 at (104.64609467779475, 96.0, 51.30000001192093)
+[18:07:41] [Server thread/INFO]: JEspantaViejas joined the game
+[18:07:42] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[18:07:42] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[18:07:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[18:07:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[18:07:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[18:09:05] [Server thread/INFO]: Trejos1111 is incapacitated!
+[18:09:05] [Server thread/INFO]: Trejos1111 has made the advancement [Caves & Cliffs]
+[18:09:06] [Server thread/INFO]: [Not Secure] <JEspantaViejas> quien es dj cuajadas ?
+[18:09:24] [Server thread/INFO]: Trejos1111 has been revived!
+[18:09:24] [Server thread/INFO]: [Trejos1111: Forcibly revived Trejos1111]
+[18:09:33] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> un ser humano
+[18:10:04] [Server thread/INFO]: [Not Secure] <JEspantaViejas> hola
+[18:10:10] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> hloa
+[18:10:45] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> no quieri ayudar a aplanar?
+[18:10:53] [Server thread/INFO]: [Not Secure] <JEspantaViejas> ya voy

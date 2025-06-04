@@ -4145,5 +4145,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2025-06-04 18:09:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
