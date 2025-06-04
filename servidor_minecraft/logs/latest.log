@@ -152,3 +152,35 @@
 [01:52:05] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
 [01:52:18] [Server thread/INFO]: [Trejos1111: Set 100 experience levels on Trejos1111]
 [01:53:41] [Server thread/INFO]: [Trejos1111: Set 0 experience levels on Trejos1111]
+[01:59:46] [Server thread/INFO]: RICHARDESC207 lost connection: Disconnected
+[01:59:46] [Server thread/INFO]: RICHARDESC207 left the game
+[01:59:46] [Server thread/INFO]: [voicechat] Disconnecting client RICHARDESC207
+[02:09:55] [ForkJoinPool.commonPool-worker-48/WARN]: Failed to fetch skin: not found
+[02:09:57] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:39323] logged in with entity id 723753 at (754.4207258136539, 58.5, -267.6878937959928)
+[02:09:57] [Server thread/INFO]: DJ_cuajada09 joined the game
+[02:10:00] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[02:10:00] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[02:10:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[02:10:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[02:10:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[02:14:21] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> zzz
+[02:15:54] [Server thread/INFO]: RICHARDESC207[/127.42.195.91:35471] logged in with entity id 731624 at (-1722.6515481333743, 111.0, -4693.782590334031)
+[02:15:54] [Server thread/INFO]: RICHARDESC207 joined the game
+[02:15:55] [Server thread/INFO]: [voicechat] Received secret request of RICHARDESC207 (18)
+[02:15:55] [Server thread/INFO]: [voicechat] Sent secret to RICHARDESC207
+[02:15:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[02:15:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[02:15:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+[02:16:42] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> oe y su hermano?
+[02:16:51] [Server thread/INFO]: [Not Secure] <Chocorramo_XXX> no puede pq mañana tiene cita
+[02:16:57] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> mielda
+[02:19:33] [Server thread/INFO]: Chocorramo_XXX has completed the challenge [Cover Me in Debris]
+[02:19:44] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> ish
+[02:23:00] [Server thread/INFO]: Chocorramo_XXX lost connection: Disconnected
+[02:23:00] [Server thread/INFO]: Chocorramo_XXX left the game
+[02:23:00] [Server thread/INFO]: [voicechat] Disconnecting client Chocorramo_XXX
+[02:23:44] [Server thread/INFO]: DJ_cuajada09 lost connection: Disconnected
+[02:23:44] [Server thread/INFO]: DJ_cuajada09 left the game
+[02:23:44] [Server thread/INFO]: [voicechat] Disconnecting client DJ_cuajada09
+[02:24:10] [Server thread/WARN]: Player Trejos1111 just tried to change non-editable sign
+[02:26:01] [Server thread/INFO]: RICHARDESC207 is incapacitated!
