@@ -295,3 +295,18 @@
 [04:07:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
 [04:07:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
 [04:07:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[04:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f timed out
+[04:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player pipi_caliente69
+[04:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[04:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[04:13:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[04:13:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[04:14:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f timed out
+[04:14:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player pipi_caliente69
+[04:14:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[04:14:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[04:14:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[04:14:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[04:16:30] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
+[04:16:30] [Server thread/INFO]: xHARITOLx left the game
+[04:16:30] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
