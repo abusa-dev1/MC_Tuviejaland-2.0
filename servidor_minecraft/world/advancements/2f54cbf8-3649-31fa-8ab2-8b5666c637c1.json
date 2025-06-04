@@ -18,6 +18,7 @@
       "minecraft:stony_shore": "2025-06-04 21:13:56 +0000",
       "minecraft:frozen_peaks": "2025-06-04 21:21:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 16:28:23 +0000",
+      "minecraft:deep_dark": "2025-06-04 21:30:27 +0000",
       "minecraft:ocean": "2025-06-02 16:28:08 +0000",
       "minecraft:jungle": "2025-06-02 16:26:53 +0000",
       "minecraft:cherry_grove": "2025-06-04 21:19:12 +0000",
@@ -2745,6 +2746,30 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-04 21:22:31 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-04 21:28:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-04 21:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-04 21:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-04 21:32:08 +0000"
     },
     "done": true
   },
