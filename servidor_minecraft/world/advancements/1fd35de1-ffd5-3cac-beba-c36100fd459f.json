@@ -3461,6 +3461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-04 02:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-06-04 01:10:17 +0000"
