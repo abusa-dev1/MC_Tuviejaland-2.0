@@ -3983,6 +3983,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2025-06-04 02:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-06-03 21:47:12 +0000"
