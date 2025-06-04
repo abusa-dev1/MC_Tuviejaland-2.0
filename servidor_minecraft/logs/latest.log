@@ -207,3 +207,23 @@
 [02:31:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
 [02:31:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
 [02:33:39] [Server thread/INFO]: [Not Secure] <xHARITOLx> richar GRUPO
+[02:37:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[02:37:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[02:37:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[02:37:11] [Server thread/INFO]: Dezar68 lost connection: Timed out
+[02:37:11] [Server thread/INFO]: Dezar68 left the game
+[02:37:11] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[02:37:24] [Server thread/INFO]: Dezar68[/127.129.89.92:42203] logged in with entity id 761030 at (719.8180034545109, 65.9375, -274.22388494228727)
+[02:37:24] [Server thread/INFO]: Dezar68 joined the game
+[02:37:25] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[02:37:25] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[02:37:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[02:37:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[02:37:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[02:37:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[02:37:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[02:46:24] [Server thread/INFO]: Named entity class_1642['  Emilio'/673287, l='ServerLevel[world]', x=-367.27, y=65.00, z=-1008.53] died:   Emilio was shot by Trejos1111 using [×ºcᴏɩⲟ𝕟ⲟṧc𝒐𝚙𝒊ɑº×]
