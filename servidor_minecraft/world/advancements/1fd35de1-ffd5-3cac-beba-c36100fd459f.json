@@ -28,6 +28,7 @@
       "minecraft:savanna_plateau": "2025-06-03 00:08:47 +0000",
       "minecraft:beach": "2025-06-02 22:03:54 +0000",
       "minecraft:dark_forest": "2025-06-03 03:15:56 +0000",
+      "minecraft:stony_peaks": "2025-06-04 22:11:12 +0000",
       "minecraft:mangrove_swamp": "2025-06-02 05:06:20 +0000",
       "minecraft:sparse_jungle": "2025-06-01 03:01:10 +0000",
       "minecraft:river": "2025-05-31 21:31:50 +0000",
@@ -3650,6 +3651,18 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-06-04 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-04 22:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-04 21:58:31 +0000"
     },
     "done": true
   },

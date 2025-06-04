@@ -373,3 +373,17 @@
 [21:51:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
 [21:51:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
 [21:51:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:57:45] [Server thread/INFO]: pipi_caliente69[/127.214.193.124:39375] logged in with entity id 229389 at (-381.4296685287652, 319.0, -976.9637805067816)
+[21:57:45] [Server thread/INFO]: pipi_caliente69 joined the game
+[21:57:46] [Server thread/INFO]: [voicechat] Received secret request of pipi_caliente69 (18)
+[21:57:46] [Server thread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[21:57:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[21:57:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[21:57:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[21:58:31] [Server thread/INFO]: pipi_caliente69 has made the advancement [Sneak 100]
+[22:03:07] [Server thread/INFO]: JEspantaViejas has made the advancement [Deep in the Dark Woodland]
+[22:05:19] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[22:05:19] [Server thread/INFO]: JEspantaViejas left the game
+[22:05:19] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[22:11:17] [Server thread/INFO]: pipi_caliente69 has completed the challenge [It Spreads]
+[22:11:26] [Server thread/INFO]: [Not Secure] <pipi_caliente69> ojito

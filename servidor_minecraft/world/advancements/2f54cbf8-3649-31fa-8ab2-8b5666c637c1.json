@@ -16,6 +16,7 @@
       "minecraft:deep_ocean": "2025-06-04 21:16:19 +0000",
       "minecraft:river": "2025-06-02 15:44:11 +0000",
       "minecraft:stony_shore": "2025-06-04 21:13:56 +0000",
+      "minecraft:dripstone_caves": "2025-06-04 21:55:08 +0000",
       "minecraft:frozen_peaks": "2025-06-04 21:21:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 16:28:23 +0000",
       "minecraft:deep_dark": "2025-06-04 21:30:27 +0000",
@@ -2733,7 +2734,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-06-04 21:21:35 +0000"
+      "illager_camp": "2025-06-04 21:21:35 +0000",
+      "mansion": "2025-06-04 22:03:07 +0000"
     },
     "done": false
   },
@@ -2806,6 +2808,66 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-06-04 21:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-04 22:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-04 22:03:23 +0000"
     },
     "done": true
   },
