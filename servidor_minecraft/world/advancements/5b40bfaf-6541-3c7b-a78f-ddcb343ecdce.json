@@ -576,10 +576,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-03 19:57:29 +0000",
+      "minecraft:blaze": "2025-06-05 04:19:44 +0000",
       "minecraft:skeleton": "2025-05-30 18:50:56 +0000",
       "minecraft:elder_guardian": "2025-06-03 19:10:39 +0000",
       "minecraft:phantom": "2025-05-30 20:17:54 +0000",
       "minecraft:witch": "2025-06-01 06:49:19 +0000",
+      "minecraft:wither_skeleton": "2025-06-05 04:21:13 +0000",
       "minecraft:ghast": "2025-06-05 03:55:07 +0000",
       "minecraft:hoglin": "2025-06-05 01:46:28 +0000",
       "minecraft:cave_spider": "2025-06-03 18:47:17 +0000",
@@ -587,6 +589,7 @@
       "minecraft:guardian": "2025-06-03 19:06:02 +0000",
       "minecraft:vindicator": "2025-06-03 20:10:20 +0000",
       "minecraft:enderman": "2025-06-01 04:56:33 +0000",
+      "minecraft:magma_cube": "2025-06-05 04:28:13 +0000",
       "minecraft:spider": "2025-05-30 18:51:06 +0000",
       "minecraft:piglin_brute": "2025-06-05 04:08:30 +0000",
       "minecraft:zombie": "2025-05-30 18:51:48 +0000",
@@ -3083,6 +3086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 02:13:37 +0000"
@@ -3104,6 +3113,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-05 03:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-05 04:22:51 +0000"
     },
     "done": true
   },
@@ -3137,6 +3152,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-05 04:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 02:13:37 +0000"
@@ -3149,9 +3176,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-05 04:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-06-05 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
     },
     "done": true
   },
@@ -3164,6 +3203,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-05 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
     },
     "done": true
   },
@@ -3197,6 +3242,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-05 04:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-05 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-05 03:50:55 +0000"
@@ -3215,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-05 03:50:39 +0000"
@@ -3224,6 +3299,24 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-05 02:11:20 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-06-05 04:19:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-05 04:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
     },
     "done": true
   },
@@ -3245,9 +3338,33 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-05 04:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-05 04:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 02:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-05 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 04:21:08 +0000"
     },
     "done": true
   },
