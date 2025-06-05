@@ -179,3 +179,27 @@
 [03:08:57] [Server thread/INFO]: pipi_caliente69 lost connection: Disconnected
 [03:08:57] [Server thread/INFO]: pipi_caliente69 left the game
 [03:08:57] [Server thread/INFO]: [voicechat] Disconnecting client pipi_caliente69
+[03:46:27] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Not Today, Thank You]
+[03:50:39] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Those Were the Days]
+[03:53:09] [Server thread/INFO]: DJ_cuajada09 lost connection: Disconnected
+[03:53:09] [Server thread/INFO]: DJ_cuajada09 left the game
+[03:53:09] [Server thread/INFO]: [voicechat] Disconnecting client DJ_cuajada09
+[03:53:15] [ForkJoinPool.commonPool-worker-40/WARN]: Failed to fetch skin: not found
+[03:53:17] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:50195] logged in with entity id 566201 at (753.3179384642388, 58.5, -277.67162485927264)
+[03:53:17] [Server thread/INFO]: DJ_cuajada09 joined the game
+[03:53:18] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[03:53:18] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[03:53:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[03:53:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[03:53:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[03:55:32] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [Hot Tourist Destinations]
+[03:57:08] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [Return to Sender]
+[04:03:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 632cfcef-1764-35b1-9ddc-274be20665c8 timed out
+[04:03:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player DJ_cuajada09
+[04:03:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[04:03:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:03:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[04:03:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[04:08:47] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [War Pigs]
+[04:19:31] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [A Terrible Fortress]
+[04:19:47] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Into Fire]

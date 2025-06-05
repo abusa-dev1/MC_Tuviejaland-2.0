@@ -1209,6 +1209,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cookie": "2025-06-05 03:54:56 +0000",
       "sweet_berries": "2025-06-03 03:24:56 +0000",
       "baked_potato": "2025-06-03 02:20:20 +0000",
       "golden_carrot": "2025-06-02 04:24:16 +0000",
