@@ -24,3 +24,48 @@
 [01:04:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
 [01:07:23] [Server thread/WARN]: pipi_caliente69 moved too quickly! 0.0,-10.806526110008988,0.0
 [01:11:52] [Server thread/WARN]: pipi_caliente69 moved too quickly! 0.0,-10.806526110008988,0.0
+[01:31:25] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:43405] logged in with entity id 409739 at (684.5984085387222, 28.0, -190.31341941912677)
+[01:31:25] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[01:31:26] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[01:31:26] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[01:31:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:31:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:31:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:32:13] [Server thread/INFO]: Dezar68[/127.129.89.92:43567] logged in with entity id 411014 at (696.0980158293282, 63.0, -186.4552146821654)
+[01:32:13] [Server thread/INFO]: Dezar68 joined the game
+[01:32:15] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[01:32:15] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[01:32:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[01:32:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[01:32:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[01:32:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[01:32:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:32:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:32:56] [Server thread/INFO]: Villager class_1646['Farmer'/409860, l='ServerLevel[world]', x=707.73, y=63.00, z=-256.30] died, message: 'Farmer was slain by Dezar68'
