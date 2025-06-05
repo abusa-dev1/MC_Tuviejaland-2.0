@@ -69,3 +69,11 @@
 [01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
 [01:32:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
 [01:32:56] [Server thread/INFO]: Villager class_1646['Farmer'/409860, l='ServerLevel[world]', x=707.73, y=63.00, z=-256.30] died, message: 'Farmer was slain by Dezar68'
+[01:58:41] [ForkJoinPool.commonPool-worker-30/WARN]: Failed to fetch skin: not found
+[01:58:43] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:51881] logged in with entity id 444035 at (736.5, 67.5, -270.5)
+[01:58:43] [Server thread/INFO]: DJ_cuajada09 joined the game
+[01:58:46] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[01:58:46] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[01:58:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[01:58:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[01:58:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
