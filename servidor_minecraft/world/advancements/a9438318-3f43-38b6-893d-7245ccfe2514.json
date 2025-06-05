@@ -11,6 +11,7 @@
       "minecraft:forest": "2025-05-29 23:45:04 +0000",
       "minecraft:taiga": "2025-06-02 22:24:16 +0000",
       "minecraft:deep_ocean": "2025-06-01 05:22:39 +0000",
+      "minecraft:lush_caves": "2025-06-04 23:40:00 +0000",
       "minecraft:ice_spikes": "2025-06-02 23:46:11 +0000",
       "minecraft:eroded_badlands": "2025-05-30 02:11:52 +0000",
       "minecraft:desert": "2025-05-30 01:52:39 +0000",
@@ -4165,6 +4166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-04 22:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-04 18:32:13 +0000"
@@ -4174,6 +4181,36 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-04 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-04 22:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-04 23:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-04 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-04 23:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-04 23:40:31 +0000"
     },
     "done": true
   },
