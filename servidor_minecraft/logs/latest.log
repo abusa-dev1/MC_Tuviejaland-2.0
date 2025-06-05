@@ -79,3 +79,17 @@
 [01:58:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
 [02:00:16] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> zzzz
 [02:06:05] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> uy
+[02:16:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 632cfcef-1764-35b1-9ddc-274be20665c8 timed out
+[02:16:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player DJ_cuajada09
+[02:16:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[02:16:30] [Server thread/INFO]: DJ_cuajada09 lost connection: Timed out
+[02:16:30] [Server thread/INFO]: DJ_cuajada09 left the game
+[02:16:30] [Server thread/INFO]: [voicechat] Disconnecting client DJ_cuajada09
+[02:18:06] [ForkJoinPool.commonPool-worker-32/WARN]: Failed to fetch skin: not found
+[02:18:08] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:47297] logged in with entity id 470985 at (707.7987414138346, 66.0, -333.31091383842784)
+[02:18:08] [Server thread/INFO]: DJ_cuajada09 joined the game
+[02:18:09] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[02:18:09] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[02:18:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[02:18:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[02:18:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
