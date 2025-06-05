@@ -204,3 +204,16 @@
 [04:19:31] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [A Terrible Fortress]
 [04:19:47] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Into Fire]
 [04:25:52] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Spooky Scary Skeleton]
+[04:32:42] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
+[04:33:34] [Server thread/INFO]: IlarilarieOhOHIO has been revived!
+[04:39:20] [Server thread/INFO]: Named entity class_1642['Dickson Mayas'/619281, l='ServerLevel[world]', x=715.35, y=72.00, z=-106.75] died: Dickson Mayas was slain by Dezar68
+[04:39:57] [Server thread/INFO]: Trejos1111[/127.60.167.187:48731] logged in with entity id 621906 at (-358.4083807843213, 64.0, -993.5138900244003)
+[04:39:57] [Server thread/INFO]: Trejos1111 joined the game
+[04:39:57] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[04:39:57] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[04:39:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[04:39:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[04:39:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[04:40:22] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[04:40:22] [Server thread/INFO]: Trejos1111 left the game
+[04:40:22] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
