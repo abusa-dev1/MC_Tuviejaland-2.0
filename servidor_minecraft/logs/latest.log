@@ -2,3 +2,24 @@
 [00:19:55] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
 [00:20:23] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
 [00:20:51] [Server thread/INFO]: Trejos1111 has completed the challenge [Subspace Bubble]
+[00:51:09] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[00:51:09] [Server thread/INFO]: Trejos1111 left the game
+[00:51:09] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[00:53:24] [Server thread/INFO]: Trejos1111[/127.60.167.187:47121] logged in with entity id 384361 at (-334.30000001192093, 49.0, -991.0118166159002)
+[00:53:24] [Server thread/INFO]: Trejos1111 joined the game
+[00:53:25] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[00:53:25] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[00:53:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[00:53:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[00:53:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[01:01:47] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[01:01:47] [Server thread/INFO]: Trejos1111 left the game
+[01:01:47] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[01:04:42] [Server thread/INFO]: Trejos1111[/127.60.167.187:45829] logged in with entity id 390784 at (-360.69999998807907, 64.0, -993.6999999880791)
+[01:04:42] [Server thread/INFO]: Trejos1111 joined the game
+[01:04:43] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[01:04:43] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[01:04:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[01:04:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[01:04:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[01:07:23] [Server thread/WARN]: pipi_caliente69 moved too quickly! 0.0,-10.806526110008988,0.0
