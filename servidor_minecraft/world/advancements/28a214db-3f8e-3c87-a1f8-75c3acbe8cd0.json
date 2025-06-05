@@ -2857,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-04 03:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-06-04 03:52:57 +0000"
@@ -2893,12 +2899,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-06-04 03:52:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 03:56:38 +0000"
@@ -2917,12 +2917,6 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "minecraft:fortress": "2025-06-04 04:10:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-04 03:56:38 +0000"
@@ -2935,15 +2929,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-04 03:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-04 03:58:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "has_netherite_ingot": "2025-06-04 03:56:38 +0000"
+      "minecraft:fortress": "2025-06-04 04:10:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-05 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-05 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-05 02:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-05 03:05:22 +0000"
     },
     "done": true
   },
